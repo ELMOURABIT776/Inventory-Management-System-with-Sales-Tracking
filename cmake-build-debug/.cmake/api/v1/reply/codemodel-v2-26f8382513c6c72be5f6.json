@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TASK_4_Inventory_Management_System_with_Sales_Tracking",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TASK_4_Inventory_Management_System_with_Sales_Tracking::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TASK_4_Inventory_Management_System_with_Sales_Tracking-Debug-60723f67f857d4b4004a.json",
+					"name" : "TASK_4_Inventory_Management_System_with_Sales_Tracking",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/pc/CLionProjects/TASK 4 Inventory Management System with Sales Tracking/cmake-build-debug",
+		"source" : "C:/Users/pc/CLionProjects/TASK 4 Inventory Management System with Sales Tracking"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
